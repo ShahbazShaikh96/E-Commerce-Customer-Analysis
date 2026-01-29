@@ -1,6 +1,6 @@
-Ecommerce Customer Analysis & Spending Prediction\
+### Ecommerce Customer Analysis & Spending Prediction
 
-## Project Overview\
+## Project Overview
 This project analyzes customer behavior data from an e-commerce company to predict yearly spending. Using linear regression, we identify key drivers of customer expenditure and provide actionable insights for business strategy.
 
 ## Key Insights
